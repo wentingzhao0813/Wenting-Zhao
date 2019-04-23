@@ -70,9 +70,9 @@ projects:
 
 social:
 - {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: 'https://www.instagram.com/mia_snoopyy/'}
+- {icon: 'instagram', link: '#https://www.instagram.com/mia_snoopyy/'}
 - {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/wenting-zhao/'}
-- {icon: 'envelope', link: 'mailto:wentingzhao0813@163.com'}
+- {icon: 'linkedin', link: '#https://www.linkedin.com/in/wenting-zhao/'}
+- {icon: 'envelope', link: '#mailto:wentingzhao0813@163.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
