@@ -3,9 +3,9 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'Life', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+
 
 #-------------------------------
 # SEO Section
@@ -40,14 +40,20 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # Wenting (Mia) Zhao 
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  Hi! Welcome to my website! This is Wenting Zhao and you can call me Mia. Now I am a Master student studying Business Analytics at UC San Diego and will graduate in August. This program gives me the chance to jump into the true data-driven world and learn how to do analytics.
+  
+  Under my undergraduate degree, I studied Economics in Hangzhou and worked as a financial intern in Bank of Communications and CreditEase. After that, I knew I can't be happy if I become a banker or accountant in a financial institution, even it could be a famous one. Therefore, following by my heart, I chose to start my journey in the Internet industry, which is the domain where can push me generate fresh ideas and feel excited. Finally, I had my third internship in Beyondsoft and came here to learn data analytics. 
+  
+  Here, I want to share and summarize my projects with you guys and hope you can have fun! 
+  
+  Also, if you want to learn more about me, feel free to reach out via [my Linkedin](https://www.linkedin.com/in/wenting-zhao/) or [my Email](mailto:wentingzhao0813@163.com).
+  
+ Life: >
+  # Life
 
-contact: >
-  # Contact
-
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+   
 
 #-------------------------------
 # Work Section
@@ -64,9 +70,9 @@ projects:
 
 social:
 - {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
+- {icon: 'instagram', link: 'https://www.instagram.com/mia_snoopyy/'}
 - {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/wenting-zhao/'}
+- {icon: 'envelope', link: 'mailto:wentingzhao0813@163.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
