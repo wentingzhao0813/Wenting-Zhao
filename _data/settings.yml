@@ -39,7 +39,7 @@ disqus:
 #-------------------------------
 # About Section
 
-about: >
+about: 
   # Wenting (Mia) Zhao 
 
   Hi! Welcome to my website! This is Wenting Zhao and you can call me Mia. Now I am a Master student studying Business Analytics at UC San Diego and will graduate in August. This program gives me the chance to jump into the true data-driven world and learn how to do analytics.
@@ -50,7 +50,7 @@ about: >
   
   Also, if you want to learn more about me, feel free to reach out via [my Linkedin](https://www.linkedin.com/in/wenting-zhao/) or [my Email](mailto:wentingzhao0813@163.com).
   
- Life: >
+Life: 
   # Life
 
    
